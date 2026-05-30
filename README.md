@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/bambykkk/bambykkk/refs/heads/main/cat-cute.gif" width="80%">
+<img src="https://raw.githubusercontent.com/bambykkk/bambykkk/refs/heads/main/cat-cute.gif" width="40%">
 </div>
 <!--
 **bambykkk/bambykkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
